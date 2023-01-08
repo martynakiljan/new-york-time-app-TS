@@ -2,7 +2,7 @@ import React from "react";
 import { Container } from "@material-ui/core";
 import Content from "./Components/Content.tsx";
 import Context from "./context.tsx";
-import Topbar from "./Components/Topbar";
+import Topbar from "./Components/Topbar.tsx";
 import getArticlesFromAPI from "./utils";
 import FooterWrapper from "./Components/Footer.tsx";
 import Header from "./Components/Header.tsx";
